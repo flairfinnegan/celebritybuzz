@@ -1,0 +1,17 @@
+.cent {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .ser1 {
+  padding:0px;
+  margin-left: auto;
+  margin-right: auto;
+  Margin:0px;
+    font-size:0.8em;
+  }
+}
